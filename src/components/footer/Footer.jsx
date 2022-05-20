@@ -25,7 +25,7 @@ export const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>$copy; Alex Iliasov. All rights reserved.</small>
+        <small>&copy; Alex Iliasov. All rights reserved.</small>
       </div>
 
     </footer>
